@@ -1,8 +1,8 @@
 # basic-node-server
 
-## Boilder Plate | Node Server Working
-## A simple Boiler plate node server. ES6 enabled by babel
--- How to create Sub-Route Module (Ex: /api, /chat etc.)
+#### Boilder Plate | Node Server Working
+#### A simple Boiler plate node server. ES6 enabled by babel
+#### How to create Sub-Route Module (Ex: /api, /chat etc.)
 ------------
 - package.json
 ```{
